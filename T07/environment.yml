@@ -15,7 +15,6 @@ dependencies:
   - backports=1.0=pyhd8ed1ab_3
   - backports.functools_lru_cache=1.6.5=pyhd8ed1ab_0
   - beautifulsoup4=4.12.2=pyha770c72_0
-  - black=23.10.1=py311h267d04e_0
   - bleach=6.1.0=pyhd8ed1ab_0
   - brotli=1.1.0=hb547adb_1
   - brotli-bin=1.1.0=hb547adb_1
@@ -27,7 +26,6 @@ dependencies:
   - certifi=2023.11.17=pyhd8ed1ab_0
   - cffi=1.16.0=py311h4a08483_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
-  - click=8.1.7=unix_pyh707e725_0
   - comm=0.1.4=pyhd8ed1ab_0
   - contourpy=1.2.0=py311hd03642b_0
   - cycler=0.12.1=pyhd8ed1ab_0
@@ -95,7 +93,6 @@ dependencies:
   - matplotlib-inline=0.1.6=pyhd8ed1ab_0
   - mistune=3.0.2=pyhd8ed1ab_0
   - munkres=1.1.4=pyh9f0ad1d_0
-  - mypy_extensions=1.0.0=pyha770c72_0
   - nbclient=0.8.0=pyhd8ed1ab_0
   - nbconvert-core=7.11.0=pyhd8ed1ab_0
   - nbformat=5.9.2=pyhd8ed1ab_0
@@ -112,7 +109,6 @@ dependencies:
   - pandas=2.1.3=py311h6e08293_0
   - pandocfilters=1.5.0=pyhd8ed1ab_0
   - parso=0.8.3=pyhd8ed1ab_0
-  - pathspec=0.11.2=pyhd8ed1ab_0
   - patsy=0.5.3=pyhd8ed1ab_0
   - pexpect=4.8.0=pyh1a96a4e_2
   - pickleshare=0.7.5=py_1003
@@ -187,12 +183,3 @@ dependencies:
   - zeromq=4.3.5=h965bd2d_0
   - zipp=3.17.0=pyhd8ed1ab_0
   - zstd=1.5.5=h4f39d0f_0
-  - pip:
-      - dill==0.3.7
-      - effect-size-analysis==0.1.0
-      - ipywidgets==8.1.1
-      - jupyterlab-widgets==3.0.9
-      - pandarallel==1.6.5
-      - tokenize-rt==5.2.0
-      - widgetsnbextension==4.0.9
-      - xgboost==2.0.2
